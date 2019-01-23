@@ -24,7 +24,7 @@ p {
   text-align: center;
 }
 .slide {
-  background-size: unset !important;
+  background-size: cover;
 }
 .slide h1 {
   text-align: center;

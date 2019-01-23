@@ -1,28 +1,167 @@
-# Our journey to Open Source
+# Our journey to 
+# Open Source
 
-# Intro Who am I, What is Philips?
+# Who am I?
 @css/blue.css
 
-###### How does this conflict big corp enterprises?
+## Jeroen Knoops
+## @johnnybusca
+@css/blue.css
+
+## I like Programming
+@css/blue.css
+
+## Always did
+#apple ][
+@img/images/me-dad.jpg
+@css/blue.css
+
+react 
+react-native 
+rust 
+java 
+javascript
+docker 
+terraform
+@css/blue.css
+
+
+## I like Synthesisers
+@css/blue.css
+
+## I like ROUX
+@css/blue.css
+
+## For solving Rubiks
+@img/images/rubiks.jpg
+@css/blue.css
+
+## As base for Frikandellen soep
+@img/images/frikandellensoep.jpg
+@css/blue.css
+
+# I used to work for a
+# Startup
+@img/images/gynzy.jpg
+
+# I was a
+## Consultant
+@css/blue.css
+
+# Now I work for
+@css/blue.css
+
+@img/images/philips-logo.png
+
+## Boxes
+@img/images/philips-boxes.jpg
+
+## Lights
+@img/images/philips-lights.jpg
+
+## Televisions
+@img/images/philips-televisions.jpg
+
+## Healthtec
+@img/images/philips-health.jpg
+
+## Services
+@css/blue.css
+
+# What do developers need?
+
+# Startup
+
+## Source control
+
+# Github
+
+## CI
+
+# Travis-ci
+
+## Deployment
+
+# AWS
+
+## Chat
+
+# Slack
+
+# For Philips...
+
+## Source control
+
+# TFS
+(officially)
+
+Bitbucket
+Gitlab
+SVN
+Jira
+Github
+
+## CI
+
+# Jenkins
+(officially)
+
+Own server
+Azure
+Gitlab
+Bamboo
+TeamCity
+
+
+## Deployment
+
+# IT managed
+(officially)
+
+AWS
+Cloud foundry
+Heroku
+Zeit
+
+## Chat
+
+# Skype
+(officially)
+
+Slack
+Whatsapp
+Telegram
+Signal
+Email
+
+# Aaaaaaaaaargh
+
+# What is so different?
+@css/green.css
+
+###### What is so different?
 ## Legal
 @css/green.css
 
-###### How does this conflict big corp enterprises?
+###### What is so different?
 ## IP generation
 @css/green.css
 
-###### How does this conflict big corp enterprises?
+###### What is so different?
 ## Developers
 @css/green.css
 
-###### How does this conflict big corp enterprises?
+###### What is so different?
 ## Organisation structures
 ## (my code)
 @css/green.css
 
-###### How does this conflict big corp enterprises?
+###### What is so different?
 ##  Inner source
 @css/green.css
+
+# Good news
+We did change some of the things.
 
 ###### Retrospect. What did we see changed in Philips
 ## Culture change
