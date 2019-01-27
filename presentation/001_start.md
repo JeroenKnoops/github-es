@@ -1,11 +1,17 @@
 # Our journey to 
 # Open Source
+###### Philips
 
 # Who am I?
 @css/blue.css
 
 ## Jeroen Knoops
+@css/blue.css
+
 ## @johnnybusca
+@css/blue.css
+
+## https://github.com/jeroenknoops
 @css/blue.css
 
 ## I like Programming
@@ -17,6 +23,39 @@
 @css/blue.css
 
 react 
+@css/blue.css
+
+react 
+react-native 
+@css/blue.css
+
+react 
+react-native 
+rust 
+@css/blue.css
+
+react 
+react-native 
+rust 
+java 
+@css/blue.css
+
+react 
+react-native 
+rust 
+java 
+javascript
+@css/blue.css
+
+react 
+react-native 
+rust 
+java 
+javascript
+docker 
+@css/blue.css
+
+react 
 react-native 
 rust 
 java 
@@ -24,7 +63,6 @@ javascript
 docker 
 terraform
 @css/blue.css
-
 
 ## I like Synthesisers
 @css/blue.css
@@ -72,67 +110,166 @@ terraform
 
 # Startup
 
-## Source control
+###### Startup
+## Source control:
 
+###### Startup
+## Source control:
 # Github
 
-## CI
+###### Startup
+## CI:
 
+###### Startup
+## CI:
 # Travis-ci
 
-## Deployment
+###### Startup
+## Deployment:
 
+###### Startup
+## Deployment:
 # AWS
 
-## Chat
+###### Startup
+## Chat:
 
+###### Startup
+## Chat:
 # Slack
 
 # For Philips...
 
-## Source control
+###### Philips
+## Source control:
 
+###### Philips
+## Source control:
 # TFS
 (officially)
 
+###### Philips
+## Source control:
+Bitbucket
+
+###### Philips
+## Source control:
 Bitbucket
 Gitlab
-SVN
+
+###### Philips
+## Source control:
+Bitbucket
+Gitlab
+SVN - Redmine
+
+###### Philips
+## Source control:
+Bitbucket
+Gitlab
+SVN - Redmine
 Jira
-Github
 
-## CI
+###### Philips
+## Source control:
+Bitbucket
+Gitlab
+SVN - Redmine
+Jira
+IBM Synergy - Change
 
+###### Philips
+## CI:
+
+###### Philips
+## CI:
 # Jenkins
 (officially)
 
+###### Philips
+## CI:
+Own server
+
+###### Philips
+## CI:
+Own server
+Azure
+
+###### Philips
+## CI:
+Own server
+Azure
+Gitlab
+
+###### Philips
+## CI:
+Own server
+Azure
+Gitlab
+Bamboo
+
+###### Philips
+## CI:
 Own server
 Azure
 Gitlab
 Bamboo
 TeamCity
 
+###### Philips
+## Deployment:
 
-## Deployment
-
+###### Philips
+## Deployment:
 # IT managed
 (officially)
 
+###### Philips
+## Deployment:
+AWS
+
+###### Philips
+## Deployment:
+AWS
+Cloud foundry
+
+###### Philips
+## Deployment:
+AWS
+Cloud foundry
+Heroku
+
+###### Philips
+## Deployment:
 AWS
 Cloud foundry
 Heroku
 Zeit
 
-## Chat
+###### Philips
+## Chat:
 
 # Skype
 (officially)
 
+###### Philips
+## Chat:
+Slack
+
+###### Philips
+## Chat:
+Slack
+Whatsapp
+
+###### Philips
+## Chat:
 Slack
 Whatsapp
 Telegram
 Signal
 Email
+Confluence
+Socialcast
 
 # Aaaaaaaaaargh
 

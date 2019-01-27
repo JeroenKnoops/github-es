@@ -22,15 +22,22 @@ body {
 }
 p {
   text-align: center;
+  font-family: Lintel;
 }
 .slide {
   background-size: cover;
 }
 .slide h1 {
   text-align: center;
-  font-family: PR;
+  font-family: Lintel;
   font-weight: 400;
   font-size: 2.6rem;
+}
+.slide h2 {
+  text-align: center;
+  font-family: Lintel;
+  font-weight: 300;
+  font-size: 2.4rem;
 }
 .slide h6 {
   text-align: center;
