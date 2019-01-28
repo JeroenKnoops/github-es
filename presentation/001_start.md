@@ -414,27 +414,70 @@ in the healthtech industry
 @css/green.css
 
 ###### What is so different?
-##  Inner source
+## Inner source
 @css/green.css
 
-# Good news
-We did change some of the things.
+# What needs to change?
 
-###### Retrospect. What did we see changed in Philips
 ## Culture change
 @css/red.css
 
-###### Retrospect. What did we see changed in Philips
-Technical leads now grew
-up with open source.
-Their bosses mostly not.
+Developers grew up
+# with open source
+Their bosses mostly not
 @css/red.css
 
-###### Retrospect. What did we see changed in Philips
 A lot of developers finally 
-admitted they were 
-already doing open source.
+# admitted they were 
+already doing open source
 @css/red.css
+
+So we need to address
+# the bosses
+@css/red.css
+
+#### How to change your company?
+## Get a team of committed people 
+## to guide the open source project.
+@css/brown.css
+
+#### How to change your company?
+## Setup simple guidelines. 
+## Take them from other 
+## open source projects.
+@css/brown.css
+
+#### How to change your company?
+## Start with minimal variation 
+## of licenses. MIT f.e.
+@css/brown.css
+
+#### How to change your company?
+## Get contracts / business impact 
+## analysis and privacy impact 
+## analysis approved...  
+### for all third party services.
+@css/brown.css
+
+#### How to change your company?
+## Start with new projects. 
+## From scratch.
+@css/brown.css
+
+#### How to change your company?
+## Start with supporting tools.
+@css/brown.css
+
+#### How to change your company?
+## Get higher management 
+## involved in spreading the message.
+@css/brown.css
+
+#### How to change your company?
+## Make sure Open Source gets
+## a landing page on the 
+## corporate domain
+@css/brown.css
 
 ###### Misconceptions
 ## Free maintenance
@@ -466,49 +509,27 @@ already doing open source.
 ### will get in trouble"
 @css/green2.css
 
-###### How to change your company?
-## Get a team of committed people 
-## to guide the open source project.
-@css/brown.css
+# Good news
+We did change some of the things.
 
-###### How to change your company?
-## Setup simple guidelines. 
-## Take them from other 
-## open source projects.
-@css/brown.css
+@img/images/github-philips-software.png
 
-###### How to change your company?
-## Get contracts / business impact 
-## analysis and privacy impact 
-## analysis approved...  
-### for all third party services.
-@css/brown.css
-
-###### How to change your company?
-## Start with minimal variation 
-## of licenses. MIT f.e.
-@css/brown.css
-
-###### How to change your company?
-## Start with new projects. 
-## From scratch.
-@css/brown.css
-
-###### How to change your company?
-## Get higher management 
-## involved in spreading the message.
-@css/brown.css
-
-###### How to change your company?
+#### Future 
 ## Do your collaborations open source. 
 ## For example for EU projects.
 @css/brown.css
 
-###### How to change your company?
+#### Future 
 ## Start contribution in existing
 ## open source projects in 
 ## name of your company
 @css/brown.css
+
+## Final Thought
+#Pieter Hintjes:
+"My only professional regret was to spend years 
+of my life making *closed projects* for clients 
+who inevitably threw my work away sooner or later."
 
 # QA 
 
