@@ -132,11 +132,19 @@ terraform
 # AWS
 
 ###### Startup
+## Deployment:
+# AWS
+# Zeit
+# Netlify
+
+###### Startup
 ## Chat:
 
 ###### Startup
 ## Chat:
 # Slack
+
+# Simple
 
 # For Philips...
 
@@ -150,21 +158,25 @@ terraform
 
 ###### Philips
 ## Source control:
+*TFS*
 Bitbucket
 
 ###### Philips
 ## Source control:
+*TFS*
 Bitbucket
 Gitlab
 
 ###### Philips
 ## Source control:
+*TFS*
 Bitbucket
 Gitlab
 SVN - Redmine
 
 ###### Philips
 ## Source control:
+*TFS*
 Bitbucket
 Gitlab
 SVN - Redmine
@@ -172,11 +184,15 @@ Jira
 
 ###### Philips
 ## Source control:
+*TFS*
 Bitbucket
 Gitlab
 SVN - Redmine
 Jira
 IBM Synergy - Change
+
+You think..
+# Why is it so hard...
 
 ###### Philips
 ## CI:
@@ -188,21 +204,25 @@ IBM Synergy - Change
 
 ###### Philips
 ## CI:
+*Jenkins*
 Own server
 
 ###### Philips
 ## CI:
+*Jenkins*
 Own server
 Azure
 
 ###### Philips
 ## CI:
+*Jenkins*
 Own server
 Azure
 Gitlab
 
 ###### Philips
 ## CI:
+*Jenkins*
 Own server
 Azure
 Gitlab
@@ -210,11 +230,15 @@ Bamboo
 
 ###### Philips
 ## CI:
+*Jenkins*
 Own server
 Azure
 Gitlab
 Bamboo
 TeamCity
+
+You think..
+# Why is so many...
 
 ###### Philips
 ## Deployment:
@@ -226,25 +250,23 @@ TeamCity
 
 ###### Philips
 ## Deployment:
+*IT managed*
 AWS
 
 ###### Philips
 ## Deployment:
-AWS
-Cloud foundry
-
-###### Philips
-## Deployment:
+*IT managed*
 AWS
 Cloud foundry
-Heroku
 
 ###### Philips
 ## Deployment:
+*IT managed*
 AWS
 Cloud foundry
 Heroku
-Zeit
+
+# Why...
 
 ###### Philips
 ## Chat:
@@ -272,6 +294,60 @@ Confluence
 Socialcast
 
 # Aaaaaaaaaargh
+
+Why can't it be simple
+## Like in 
+## open source projects...
+
+But you continue
+
+- Registering services
+- Request access to repos
+- Configuring services
+- Start coding
+- Creating custom scripts
+- .....
+
+After a year
+# You want to test the system
+and want to deploy to an environment
+
+This takes a lot of effort..
+
+And 
+# you realize you're 
+slow
+
+very 
+
+very very 
+
+very very very slow
+
+You think..
+# Why can't we use the 
+# best practices in the community..
+
+But you continue
+
+Then you're working on 
+# Digital Trust
+and
+# Blockchain
+
+You can't build trust on
+closed software
+
+You think...
+# We must open source this...
+
+# Philips vision
+
+To become the best 
+# in software 
+in the healthtech industry
+
+# Let's do this!
 
 # What is so different?
 @css/green.css
