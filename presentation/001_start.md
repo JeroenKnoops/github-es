@@ -19,7 +19,7 @@
 
 ## Always did
 #apple ][
-@img/images/me-dad.jpg
+@img/images/apple2.jpg
 @css/blue.css
 
 react 
@@ -67,6 +67,10 @@ terraform
 ## I like Synthesisers
 @css/blue.css
 
+@img/images/tb-303.jpg
+
+@img/images/modular.jpg
+
 ## I like ROUX
 @css/blue.css
 
@@ -95,13 +99,16 @@ terraform
 @img/images/philips-boxes.jpg
 
 ## Lights
-@img/images/philips-lights.jpg
+@img/images/philips-lights.png
+@css/white.css
 
 ## Televisions
-@img/images/philips-televisions.jpg
+@img/images/philips-tv.jpg
+@css/blue.css
 
 ## Healthtec
 @img/images/philips-health.jpg
+@css/white.css
 
 ## Services
 @css/blue.css
@@ -115,34 +122,34 @@ terraform
 
 ###### Startup
 ## Source control:
-# Github
+*Github*
 
 ###### Startup
 ## CI:
 
 ###### Startup
 ## CI:
-# Travis-ci
+*Travis-ci*
 
 ###### Startup
 ## Deployment:
 
 ###### Startup
 ## Deployment:
-# AWS
+*AWS*
 
 ###### Startup
 ## Deployment:
-# AWS
-# Zeit
-# Netlify
+*AWS*
+Zeit
+Netlify
 
 ###### Startup
 ## Chat:
 
 ###### Startup
 ## Chat:
-# Slack
+*Slack*
 
 # Simple
 
@@ -153,7 +160,7 @@ terraform
 
 ###### Philips
 ## Source control:
-# TFS
+*TFS*
 (officially)
 
 ###### Philips
@@ -193,13 +200,14 @@ IBM Synergy - Change
 
 You think..
 # Why is it so hard...
+@css/yellow.css
 
 ###### Philips
 ## CI:
 
 ###### Philips
 ## CI:
-# Jenkins
+*Jenkins*
 (officially)
 
 ###### Philips
@@ -238,14 +246,15 @@ Bamboo
 TeamCity
 
 You think..
-# Why is so many...
+# Why are there so many...
+@css/yellow.css
 
 ###### Philips
 ## Deployment:
 
 ###### Philips
 ## Deployment:
-# IT managed
+*IT managed*
 (officially)
 
 ###### Philips
@@ -267,30 +276,59 @@ Cloud foundry
 Heroku
 
 # Why...
+@css/yellow.css
 
 ###### Philips
 ## Chat:
 
-# Skype
+###### Philips
+## Chat:
+*Skype*
 (officially)
 
 ###### Philips
 ## Chat:
+*Skype*
 Slack
 
 ###### Philips
 ## Chat:
+*Skype*
 Slack
 Whatsapp
 
 ###### Philips
 ## Chat:
+*Skype*
 Slack
 Whatsapp
-Telegram
-Signal
+Email
+
+###### Philips
+## Chat:
+*Skype*
+Slack
+Whatsapp
 Email
 Confluence
+
+###### Philips
+## Chat:
+*Skype*
+Slack
+Whatsapp
+Email
+Confluence
+Telegram
+
+###### Philips
+## Chat:
+*Skype*
+Slack
+Whatsapp
+Email
+Confluence
+Telegram
 Socialcast
 
 # Aaaaaaaaaargh
@@ -298,6 +336,7 @@ Socialcast
 Why can't it be simple
 ## Like in 
 ## open source projects...
+@css/yellow.css
 
 But you continue
 
@@ -306,6 +345,7 @@ But you continue
 - Configuring services
 - Start coding
 - Creating custom scripts
+- Setup deployment 
 - .....
 
 After a year
@@ -327,6 +367,7 @@ very very very slow
 You think..
 # Why can't we use the 
 # best practices in the community..
+@css/yellow.css
 
 But you continue
 
@@ -339,7 +380,9 @@ You can't build trust on
 closed software
 
 You think...
-# We must open source this...
+# We must 
+# open source this...
+@css/yellow.css
 
 # Philips vision
 
@@ -348,6 +391,7 @@ To become the best
 in the healthtech industry
 
 # Let's do this!
+@css/yellow.css
 
 # What is so different?
 @css/green.css
