@@ -90,9 +90,6 @@ terraform
 ## Consultant
 @css/blue.css
 
-# Now I work for
-@css/blue.css
-
 @img/images/philips-logo.png
 
 ## Boxes
@@ -106,7 +103,7 @@ terraform
 @img/images/philips-tv.jpg
 @css/blue.css
 
-## Healthtec
+## Healthtech
 @img/images/philips-health.jpg
 @css/white.css
 
@@ -469,6 +466,11 @@ So we need to address
 @css/brown.css
 
 #### How to change your company?
+## Follow community standards, 
+## not your company standards 
+@css/brown.css
+
+#### How to change your company?
 ## Get higher management 
 ## involved in spreading the message.
 @css/brown.css
@@ -512,6 +514,7 @@ So we need to address
 # Good news
 We did change some of the things.
 
+https://github.com/philips-software
 @img/images/github-philips-software.png
 
 #### Future 
