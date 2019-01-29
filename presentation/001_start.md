@@ -1,9 +1,7 @@
 # Our journey to 
 # Open Source
 ###### Philips
-
-# Who am I?
-@css/blue.css
+###### Jeroen Knoops
 
 ## Jeroen Knoops
 @css/blue.css
@@ -140,6 +138,7 @@ terraform
 *AWS*
 Zeit
 Netlify
+HockeyApp
 
 ###### Startup
 ## Chat:
@@ -257,20 +256,23 @@ You think..
 ###### Philips
 ## Deployment:
 *IT managed*
-AWS
-
-###### Philips
-## Deployment:
-*IT managed*
-AWS
 Cloud foundry
 
 ###### Philips
 ## Deployment:
 *IT managed*
-AWS
 Cloud foundry
-Heroku
+AWS
+
+###### Philips
+## Deployment:
+*IT managed*
+Cloud foundry
+AWS
+Powerpoint
+
+App Deployment
+????????
 
 # Why...
 @css/yellow.css
@@ -286,47 +288,47 @@ Heroku
 ###### Philips
 ## Chat:
 *Skype*
-Slack
-
-###### Philips
-## Chat:
-*Skype*
-Slack
-Whatsapp
-
-###### Philips
-## Chat:
-*Skype*
-Slack
-Whatsapp
 Email
 
 ###### Philips
 ## Chat:
 *Skype*
-Slack
-Whatsapp
 Email
+Microsoft Teams / Sharepoint
+
+###### Philips
+## Chat:
+*Skype*
+Email
+Microsoft Teams / Sharepoint
 Confluence
 
 ###### Philips
 ## Chat:
 *Skype*
-Slack
-Whatsapp
 Email
+Microsoft Teams / Sharepoint
 Confluence
-Telegram
+Slack
 
 ###### Philips
 ## Chat:
 *Skype*
-Slack
-Whatsapp
 Email
+Microsoft Teams / Sharepoint
 Confluence
-Telegram
+Slack
 Socialcast
+
+###### Philips
+## Chat:
+*Skype*
+Email
+Microsoft Teams / Sharepoint
+Confluence
+Slack
+Socialcast
+Powerpoint
 
 # Aaaaaaaaaargh
 
@@ -372,9 +374,11 @@ Then you're working on
 # Digital Trust
 and
 # Blockchain
+@css/orange.css
 
 You can't build trust on
 closed software
+@css/orange.css
 
 You think...
 # We must 
@@ -466,6 +470,11 @@ So we need to address
 @css/brown.css
 
 #### How to change your company?
+## Scope open source to a
+## small part of the organization.
+@css/brown.css
+
+#### How to change your company?
 ## Follow community standards, 
 ## not your company standards 
 @css/brown.css
@@ -536,3 +545,6 @@ who inevitably threw my work away sooner or later."
 
 # QA 
 
+slides: https://github.com/JeroenKnoops/github-es
+twitter: @johnnyubsca
+# Thanks to Github for having me
