@@ -545,6 +545,9 @@ who inevitably threw my work away sooner or later."
 
 # QA 
 
-slides: https://github.com/JeroenKnoops/github-es
+## slides: https://github.com/JeroenKnoops/github-es
 twitter: @johnnyubsca
+email: jeroen.knoops@philips.com 
 # Thanks to Github for having me
+https://github.com/philips-software
+@css/blue.css
