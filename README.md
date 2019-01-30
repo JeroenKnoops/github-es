@@ -21,7 +21,7 @@ Goto http://localhost:8080
 
 ### Hosted
 
-[Preview on Github](http://htmlpreview.github.io/?https://github.com/jeroenknoops/github-es/blob/master/html/index.html)
+[Slide on now](https://githubenterprisesummit-philips.now.sh/)
 
 ## Slide Share
 This presentation uses [Slide-serve](https://github.com/JeroenKnoops/slide-serve).
