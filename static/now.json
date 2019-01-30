@@ -1,7 +1,4 @@
 {
     "version": 2,
-    "name": "Github Enterprise Summit",
-    "builds": [
-		{ "src": "index.html", "use": "@now/html-minifier" }
-  	]
+    "name": "Github Enterprise Summit"
 }
