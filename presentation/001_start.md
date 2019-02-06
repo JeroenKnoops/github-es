@@ -3,13 +3,17 @@
 ###### Philips
 ###### Jeroen Knoops
 
+# Why do those 
+# Research guys 
+# always need
+# another tool?
+###### Philips
+###### Jeroen Knoops
+
 ## Jeroen Knoops
 @css/blue.css
 
-## @johnnybusca
-@css/blue.css
-
-## https://github.com/jeroenknoops
+## jeroen.knoops@philips.com
 @css/blue.css
 
 ## I like Programming
@@ -18,39 +22,6 @@
 ## Always did
 #apple ][
 @img/images/apple2.jpg
-@css/blue.css
-
-react 
-@css/blue.css
-
-react 
-react-native 
-@css/blue.css
-
-react 
-react-native 
-rust 
-@css/blue.css
-
-react 
-react-native 
-rust 
-java 
-@css/blue.css
-
-react 
-react-native 
-rust 
-java 
-javascript
-@css/blue.css
-
-react 
-react-native 
-rust 
-java 
-javascript
-docker 
 @css/blue.css
 
 react 
@@ -76,7 +47,8 @@ terraform
 @img/images/rubiks.jpg
 @css/blue.css
 
-## As base for Frikandellen soep
+## As foundation for 
+## Frikandellen soep
 @img/images/frikandellensoep.jpg
 @css/blue.css
 
@@ -318,7 +290,7 @@ Email
 Microsoft Teams / Sharepoint
 Confluence
 Slack
-Socialcast
+Socialcast / Yammer
 
 ###### Philips
 ## Chat:
@@ -402,6 +374,11 @@ in the healthtech industry
 @css/green.css
 
 ###### What is so different?
+## Regulated 
+## environment
+@css/green.css
+
+###### What is so different?
 ## IP generation
 @css/green.css
 
@@ -435,6 +412,7 @@ already doing open source
 
 So we need to address
 # the bosses
+and processes
 @css/red.css
 
 #### How to change your company?
@@ -526,9 +504,25 @@ We did change some of the things.
 https://github.com/philips-software
 @img/images/github-philips-software.png
 
+###### Number of Repositories:
+Blockchain / Trust (1)
+Infrastructure-as-code (11/2)
+Docker-images (4/1)
+Frontend Developer (2)
+TFS plugin (1)
+HSDP Utilities (3)
+Licenator (1)
+IA Framework (1)
+Interoperability (4)
+
 #### Future 
 ## Do your collaborations open source. 
 ## For example for EU projects.
+@css/brown.css
+
+#### Future 
+## Expand the scope within 
+## the company 
 @css/brown.css
 
 #### Future 
@@ -548,6 +542,5 @@ who inevitably threw my work away sooner or later."
 ## slides: https://github.com/JeroenKnoops/github-es
 twitter: @johnnyubsca
 email: jeroen.knoops@philips.com 
-# Thanks to Github for having me
 https://github.com/philips-software
 @css/blue.css
