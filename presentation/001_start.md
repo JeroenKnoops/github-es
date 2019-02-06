@@ -539,8 +539,9 @@ who inevitably threw my work away sooner or later."
 
 # QA 
 
-## slides: https://github.com/JeroenKnoops/github-es
-twitter: @johnnyubsca
+twitter: @johnnybusca
 email: jeroen.knoops@philips.com 
-https://github.com/philips-software
+# https://github.com/philips-software
+*Source: https://github.com/JeroenKnoops/github-es*
+## https://csa-ta-presentation.now.sh
 @css/blue.css
