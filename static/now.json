@@ -1,4 +1,7 @@
 {
     "version": 2,
-    "name": "CSA TA presentation"
+    "name": "sc-team-pesentation",
+    "alias": [
+      "sc-team-presentation"
+    ]
 }

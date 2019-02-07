@@ -1,19 +1,17 @@
-# Our journey to 
-# Open Source
+### Our journey to 
+### Open Source
 ###### Philips
 ###### Jeroen Knoops
-
-# Why do those 
-# Research guys 
-# always need
-# another tool?
-###### Philips
-###### Jeroen Knoops
+@img/images/github-es.png
+@css/orange.css
 
 ## Jeroen Knoops
 @css/blue.css
 
 ## jeroen.knoops@philips.com
+@css/blue.css
+
+## Forestkeeper 
 @css/blue.css
 
 ## I like Programming
@@ -543,5 +541,5 @@ twitter: @johnnybusca
 email: jeroen.knoops@philips.com 
 # https://github.com/philips-software
 *Source: https://github.com/JeroenKnoops/github-es*
-## https://csa-ta-presentation.now.sh
+## https://sc-team-pesentation.now.sh
 @css/blue.css
