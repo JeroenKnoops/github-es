@@ -541,5 +541,5 @@ twitter: @johnnybusca
 email: jeroen.knoops@philips.com 
 # https://github.com/philips-software
 *Source: https://github.com/JeroenKnoops/github-es*
-## https://sc-team-pesentation.now.sh
+## https://sc-team-presentation.now.sh
 @css/blue.css
